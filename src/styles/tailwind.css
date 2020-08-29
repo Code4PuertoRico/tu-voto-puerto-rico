@@ -1,7 +1,14 @@
+/* purgecss start ignore */
+@tailwind base;
+@tailwind components;
+/* purgecss end ignore */
+
+@tailwind utilities;
+
+/* purgecss start ignore */
+
 body {
   font-family: 'Montserrat';
 }
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* purgecss end ignore */
