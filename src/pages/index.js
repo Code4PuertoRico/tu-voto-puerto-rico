@@ -77,10 +77,8 @@ const IndexPage = () => (
         <hr class="text-gray-700 border-t-2" />
       </div>
       <p class="font-light mt-4">
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Unde, numquam
-        pariatur quia quaerat ad consectetur repellendus sed veritatis delectus,
-        ratione tempora aperiam quod enim qui sapiente ut quisquam non
-        reiciendis.
+        Tu Voto te ayuda a encontrar recursos para que puedas orientarte antes
+        de votar en las próximas elecciones el 2 de noviembre de 2020.
       </p>
     </div>
     <div className="grid grid-cols-1 gap-4 mt-10 md:grid-cols-3">
