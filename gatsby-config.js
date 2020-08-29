@@ -29,5 +29,12 @@ module.exports = {
     },
     `gatsby-plugin-postcss`,
     `gatsby-plugin-offline`,
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [`montserrat:300,400,700`],
+        display: "swap",
+      },
+    },
   ],
 }
