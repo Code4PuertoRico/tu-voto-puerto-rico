@@ -35,6 +35,9 @@ const Layout = ({ children }) => {
             GitHub
           </a>
           .
+          <br />
+          Tu Voto es una colaboración entre Tu Voto No Se Deja, Proyecto 85 y
+          Para Votar.
         </p>
         <img
           className="w-8 mx-auto mt-3"
