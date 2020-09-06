@@ -7,8 +7,10 @@ const Header = () => (
     <div className="flex justify-between mx-auto max-w-4xl py-2">
       <h1 className="text-2xl font-bold">Tu Voto</h1>
       <a
-        href="mailto:paravotar@code4puertorico.org"
+        href="https://forms.gle/6hd7ev33kwGzy6VC9"
         className="bg-gray-700 py-2 px-4 text-white"
+        target="_blank"
+        rel="noreferrer"
       >
         Contáctanos
       </a>
