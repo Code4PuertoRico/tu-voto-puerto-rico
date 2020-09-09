@@ -6,6 +6,7 @@ import ParaVotar from "../images/paravotar.svg"
 import Proyecto85 from "../images/proyecto-85.png"
 import QuienMeRepresenta from "../images/quien-me-representa.png"
 import TuVotoNoSeDeja from "../images/tu-voto-no-se-deja.png"
+import VotoConConciencia from "../images/voto-con-conciencia.png"
 
 const PROJECTS = [
   {
@@ -39,6 +40,14 @@ const PROJECTS = [
     description:
       "¿Quién me representa? es un proyecto hecho por Espacios Abiertos. Su proposito es presentarle a los ciudadanos sus representantes a nivel federal, estatal y municipal según su lugar de residencia.",
     url: "https://www.quienmerepresentapr.com",
+  },
+  {
+    id: "voto-con-conciencia",
+    logo: VotoConConciencia,
+    name: "Voto con conciencia",
+    description:
+      "Voto con conciencia es un esfuerzo liderado por la Asociación de Psicología de PR. El objectivo de este proyecto es estimular la participación electoral basada en el análisis de propuestas con evidencia para atender los problemas del país.",
+    url: "https://www.facebook.com/votoconconciencia",
   },
 ]
 
