@@ -38,7 +38,7 @@ const PROJECTS = [
     logo: QuienMeRepresenta,
     name: "¿Quién me representa?",
     description:
-      "¿Quién me representa? es un proyecto hecho por Espacios Abiertos. Su proposito es presentarle a los ciudadanos sus representantes a nivel federal, estatal y municipal según su lugar de residencia.",
+      "Quién Me Representa PR te permite navegar el universo de candidatos y candidatas que aspiran a representarte, según tu lugar de residencia. Conóceles. Infórmate antes de votar.",
     url: "https://www.quienmerepresentapr.com",
   },
   {
