@@ -7,6 +7,11 @@ import Proyecto85 from "../images/proyecto-85.png"
 import QuienMeRepresenta from "../images/quien-me-representa.png"
 import TuVotoNoSeDeja from "../images/tu-voto-no-se-deja.png"
 import VotoConConciencia from "../images/voto-con-conciencia.png"
+import Equidad2020 from "../images/equidad-2020.png"
+import EsMiTurno from "../images/es-mi-turno.png"
+import LaClara from "../images/la-clara.png"
+import PoliticaAccesible from "../images/politica-accesible.png"
+import LaRutaDeLasMujeres from "../images/la-ruta-de-las-mujeres.png"
 
 const PROJECTS = [
   {
@@ -48,6 +53,41 @@ const PROJECTS = [
     description:
       "Voto con conciencia es un esfuerzo liderado por la Asociación de Psicología de PR. El objectivo de este proyecto es estimular la participación electoral basada en el análisis de propuestas con evidencia para atender los problemas del país.",
     url: "https://www.facebook.com/votoconconciencia",
+  },
+  {
+    id: "es-mi-turno",
+    logo: EsMiTurno,
+    name: "Es Mi Turno",
+    description:
+      "#EsMiTurno es una iniciativa de Mentes Puertorriqueñas en Acción que exige respuestas puntuales a candidatos y candidatas a diversos cargos en temas que afectan particularmente a los jóvenes.",
+  },
+  {
+    id: "politica-accesible",
+    logo: PoliticaAccesible,
+    name: "Política Accesible",
+    description:
+      "Somos un medio digital en Instagram creado con el fin de educar e informar a lxs jóvenes sobre el tema de política de manera accesible, sencilla, 'en arroz y habichuelas'. Buscamos que lxs jóvenes se involucren en todo proceso político, como las elecciones, de manera consciente e informada.",
+  },
+  {
+    id: "la-ruta-de-las-mujeres",
+    logo: LaRutaDeLasMujeres,
+    name: "La Ruta de las Mujeres",
+    description:
+      "La Ruta de las Mujeres de Proyecto Matria es un proyecto de apoderamiento político dirigido a educar y brindar herramientas a todas las mujeres para que puedan insertarse en procesos políticos y así ejercer un voto más informado a favor de la equidad. ¡Camina con nosotras!",
+  },
+  {
+    id: "equidad-2020",
+    logo: Equidad2020,
+    name: "Equidad 2020",
+    description:
+      "Equidad 2020 busca apoderamiento político de votantes LGBTTIQA+ mediante talleres virtuales y presenciales, investigación y desarrollo de propuestas para los candidatos y candidatas, así como de la evaluación de sus plataformas, entre otras iniciativas.",
+  },
+  {
+    id: "la-clara",
+    logo: LaClara,
+    name: "La Clara",
+    description:
+      "La Clara es un espacio en el que la creatividad y la labor social y política se encuentran para contextualizar las situaciones, los problemas, las trabas y la maraña que acapara a Puerto Rico. Dentro de un espacio digital con tanto ruido, somos una plataforma que busca resaltar las diversas iniciativas, movimientos, organizaciones e individues que día a día construyen y sostienen a Puerto Rico desde la solidaridad, la empatía y la honestidad. Este laboratorio de acción política y social es un espacio en el que les jóvenes puertorriqueñes pueden adentrarse en temas que pueden parecer áridos y complejos, e imaginar y construir soluciones desde la diversidad y la inclusión.",
   },
 ]
 
@@ -95,11 +135,13 @@ const IndexPage = () => (
         2020.
       </p>
       <p className="font-light mt-3 text-gray-700">
-        A continuación encontrarás información sobre el proceso de inscripción
-        para votar; el funcionamiento de las papeletas, así como practicar el
-        voto con papeletas modelos; podrás conocer quiénes son lxs candidatxs
-        oficiales, así como evaluar sus posturas; y conocer sobre representación
-        equitativa.
+        A continuación encontrarás recursos electorales tales como el
+        funcionamiento de las papeletas y practicar el voto con papeletas
+        modelos; podrás conocer quiénes son lxs candidatxs oficiales, así como
+        evaluar sus posturas y propuestas para diversas comunidades; conocerás
+        sobre representación equitativa en nuestro gobierno; y podrás
+        insertarte en campañas de índole electoral para que vayas a la urnas
+        listx para emitir un voto informado y consciente.
       </p>
     </div>
     <div className="grid grid-cols-1 gap-4 mt-10 md:grid-cols-3">
