@@ -60,6 +60,7 @@ const PROJECTS = [
     name: "Es Mi Turno",
     description:
       "#EsMiTurno es una iniciativa de Mentes Puertorriqueñas en Acción que exige respuestas puntuales a candidatos y candidatas a diversos cargos en temas que afectan particularmente a los jóvenes.",
+    url: "https://www.facebook.com/MentesPuertorriquenasenAccion",
   },
   {
     id: "politica-accesible",
@@ -67,6 +68,7 @@ const PROJECTS = [
     name: "Política Accesible",
     description:
       "Somos un medio digital en Instagram creado con el fin de educar e informar a lxs jóvenes sobre el tema de política de manera accesible, sencilla, 'en arroz y habichuelas'. Buscamos que lxs jóvenes se involucren en todo proceso político, como las elecciones, de manera consciente e informada.",
+    url: "https://instagram.com/politicaccesible?igshid=1d0s0nhltyhpv",
   },
   {
     id: "la-ruta-de-las-mujeres",
@@ -74,6 +76,7 @@ const PROJECTS = [
     name: "La Ruta de las Mujeres",
     description:
       "La Ruta de las Mujeres de Proyecto Matria es un proyecto de apoderamiento político dirigido a educar y brindar herramientas a todas las mujeres para que puedan insertarse en procesos políticos y así ejercer un voto más informado a favor de la equidad. ¡Camina con nosotras!",
+    url: "www.facebook.com/RutaMujeres",
   },
   {
     id: "equidad-2020",
@@ -81,6 +84,7 @@ const PROJECTS = [
     name: "Equidad 2020",
     description:
       "Equidad 2020 busca apoderamiento político de votantes LGBTTIQA+ mediante talleres virtuales y presenciales, investigación y desarrollo de propuestas para los candidatos y candidatas, así como de la evaluación de sus plataformas, entre otras iniciativas.",
+    url: "https://www.facebook.com/Porlaequidad.pr",
   },
   {
     id: "la-clara",
@@ -88,6 +92,7 @@ const PROJECTS = [
     name: "La Clara",
     description:
       "La Clara es un espacio en el que la creatividad y la labor social y política se encuentran para contextualizar las situaciones, los problemas, las trabas y la maraña que acapara a Puerto Rico. Dentro de un espacio digital con tanto ruido, somos una plataforma que busca resaltar las diversas iniciativas, movimientos, organizaciones e individues que día a día construyen y sostienen a Puerto Rico desde la solidaridad, la empatía y la honestidad. Este laboratorio de acción política y social es un espacio en el que les jóvenes puertorriqueñes pueden adentrarse en temas que pueden parecer áridos y complejos, e imaginar y construir soluciones desde la diversidad y la inclusión.",
+    url: "https://www.instagram.com/somoslaclara/",
   },
 ]
 
