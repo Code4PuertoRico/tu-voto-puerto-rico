@@ -67,7 +67,7 @@ const PROJECTS = [
     logo: PoliticaAccesible,
     name: "Política Accesible",
     description:
-      "Somos un medio digital en Instagram creado con el fin de educar e informar a lxs jóvenes sobre el tema de política de manera accesible, sencilla, 'en arroz y habichuelas'. Buscamos que lxs jóvenes se involucren en todo proceso político, como las elecciones, de manera consciente e informada.",
+      "Política Accesible un medio digital en Instagram creado con el fin de educar e informar a lxs jóvenes sobre el tema de política de manera accesible, sencilla, 'en arroz y habichuelas'. Buscamos que lxs jóvenes se involucren en todo proceso político, como las elecciones, de manera consciente e informada.",
     url: "https://instagram.com/politicaccesible?igshid=1d0s0nhltyhpv",
   },
   {
@@ -91,7 +91,7 @@ const PROJECTS = [
     logo: LaClara,
     name: "La Clara",
     description:
-      "La Clara es un espacio en el que la creatividad y la labor social y política se encuentran para contextualizar las situaciones, los problemas, las trabas y la maraña que acapara a Puerto Rico. Dentro de un espacio digital con tanto ruido, somos una plataforma que busca resaltar las diversas iniciativas, movimientos, organizaciones e individues que día a día construyen y sostienen a Puerto Rico desde la solidaridad, la empatía y la honestidad. Este laboratorio de acción política y social es un espacio en el que les jóvenes puertorriqueñes pueden adentrarse en temas que pueden parecer áridos y complejos, e imaginar y construir soluciones desde la diversidad y la inclusión.",
+      "La Clara es un espacio en el que la creatividad y la labor social y política se encuentran para contextualizar las situaciones, los problemas, las trabas y la maraña que acapara a Puerto Rico. Este laboratorio de acción política y social es un espacio en el que les jóvenes puertorriqueñes pueden adentrarse en temas que pueden parecer áridos y complejos, e imaginar y construir soluciones desde la diversidad y la inclusión.",
     url: "https://www.instagram.com/somoslaclara/",
   },
 ]
