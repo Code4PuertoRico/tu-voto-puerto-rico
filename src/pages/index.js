@@ -12,6 +12,7 @@ import EsMiTurno from "../images/es-mi-turno.png"
 import LaClara from "../images/la-clara.png"
 import PoliticaAccesible from "../images/politica-accesible.png"
 import LaRutaDeLasMujeres from "../images/la-ruta-de-las-mujeres.png"
+import PracticaTuVoto from "../images/practica-tu-voto.png"
 
 const PROJECTS = [
   {
@@ -96,9 +97,9 @@ const PROJECTS = [
   },
   {
     id: "practica-tu-voto",
-    logo: PTV,
+    logo: PracticaTuVoto,
     name: "Practica Tu Voto",
-    description: 
+    description:
       "PracticaTuVoto.com es un sitio de web construido por el Grupo PTV con el propósito de ayudar al elector puertorriqueño a emitir un voto asertivo en las elecciones generales de Puerto Rico. El visitante puede, luego de proveer información sobre su lugar de votación, examinar y marcar versiones similares a las tres papeletas que le serán entregadas el día 3 de noviembre de 2020, el día de las elecciones.",
     url: "https://www.practicatuvoto.com/",
   },
