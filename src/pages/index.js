@@ -13,6 +13,7 @@ import LaClara from "../images/la-clara.png"
 import PoliticaAccesible from "../images/politica-accesible.png"
 import LaRutaDeLasMujeres from "../images/la-ruta-de-las-mujeres.png"
 import PracticaTuVoto from "../images/practica-tu-voto.png"
+import GlobalShapers from "../images/global-shapers.png"
 
 const PROJECTS = [
   {
@@ -103,6 +104,13 @@ const PROJECTS = [
       "PracticaTuVoto.com es un sitio de web construido por el Grupo PTV con el propósito de ayudar al elector puertorriqueño a emitir un voto asertivo en las elecciones generales de Puerto Rico. El visitante puede, luego de proveer información sobre su lugar de votación, examinar y marcar versiones similares a las tres papeletas que le serán entregadas el día 3 de noviembre de 2020, el día de las elecciones.",
     url: "https://www.practicatuvoto.com/",
   },
+  {
+    id: "global-shapers",
+    logo: GlobalShapers,
+    name: "Global Shapers",
+    description: "Global Shapers es una red global de jóvenes que promueven diálogo, acción y cambio en sus comunidades. El capítulo de San Juan colaboró con la ACLU PR para lanzar tuvotonosedeja.com donde resúmen las posturas de los candidatos/as.",
+    url: "https://www.tuvotonosedeja.com/",
+  }
 ]
 
 function Project({ logo, name, description, url }) {
