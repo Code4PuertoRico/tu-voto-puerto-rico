@@ -78,7 +78,7 @@ const PROJECTS = [
     name: "La Ruta de las Mujeres",
     description:
       "La Ruta de las Mujeres de Proyecto Matria es un proyecto de apoderamiento político dirigido a educar y brindar herramientas a todas las mujeres para que puedan insertarse en procesos políticos y así ejercer un voto más informado a favor de la equidad. ¡Camina con nosotras!",
-    url: "www.facebook.com/RutaMujeres",
+    url: "https://www.facebook.com/RutaMujeres",
   },
   {
     id: "equidad-2020",
