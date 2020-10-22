@@ -69,7 +69,7 @@ const PROJECTS = [
     logo: PoliticaAccesible,
     name: "Política Accesible",
     description:
-      "Política Accesible un medio digital en Instagram creado con el fin de educar e informar a lxs jóvenes sobre el tema de política de manera accesible, sencilla, 'en arroz y habichuelas'. Buscamos que lxs jóvenes se involucren en todo proceso político, como las elecciones, de manera consciente e informada.",
+      "Política Accesible en un medio digital en Instagram creado con el fin de educar e informar a lxs jóvenes sobre el tema de política de manera accesible, sencilla, 'en arroz y habichuelas'. Buscamos que lxs jóvenes se involucren en todo proceso político, como las elecciones, de manera consciente e informada.",
     url: "https://instagram.com/politicaccesible?igshid=1d0s0nhltyhpv",
   },
   {
