@@ -50,12 +50,20 @@ const PROJECTS = [
     url: "https://www.quienmerepresentapr.com",
   },
   {
-    id: "voto-con-conciencia",
-    logo: VotoConConciencia,
-    name: "Voto con conciencia",
+    id: "ecopuntos",
+    logo: Ecopuntos,
+    name: "Ecopuntos",
     description:
-      "Voto con conciencia es un esfuerzo liderado por la Asociación de Psicología de PR. El objectivo de este proyecto es estimular la participación electoral basada en el análisis de propuestas con evidencia para atender los problemas del país.",
-    url: "https://www.facebook.com/votoconconciencia",
+      "EcoPuntos es una iniciativa colaborativa con el fin de promover decisiones informadas sobre asuntos de política pública ambiental. Desarrollamos una página web como herramienta para facilitar información a los votantes sobre cuan alineadas están las posturas de los candidatxs a Cámara y Senado con aquellas de la comunidad ambiental.",
+    url: "https://www.ecopuntospr.org",
+  },
+  {
+    id: "la-ruta-de-las-mujeres",
+    logo: LaRutaDeLasMujeres,
+    name: "La Ruta de las Mujeres",
+    description:
+      "La Ruta de las Mujeres de Proyecto Matria es un proyecto de apoderamiento político dirigido a educar y brindar herramientas a todas las mujeres para que puedan insertarse en procesos políticos y así ejercer un voto más informado a favor de la equidad. ¡Camina con nosotras!",
+    url: "https://www.facebook.com/RutaMujeres",
   },
   {
     id: "es-mi-turno",
@@ -74,12 +82,12 @@ const PROJECTS = [
     url: "https://instagram.com/politicaccesible?igshid=1d0s0nhltyhpv",
   },
   {
-    id: "la-ruta-de-las-mujeres",
-    logo: LaRutaDeLasMujeres,
-    name: "La Ruta de las Mujeres",
+    id: "voto-con-conciencia",
+    logo: VotoConConciencia,
+    name: "Voto con conciencia",
     description:
-      "La Ruta de las Mujeres de Proyecto Matria es un proyecto de apoderamiento político dirigido a educar y brindar herramientas a todas las mujeres para que puedan insertarse en procesos políticos y así ejercer un voto más informado a favor de la equidad. ¡Camina con nosotras!",
-    url: "https://www.facebook.com/RutaMujeres",
+      "Voto con conciencia es un esfuerzo liderado por la Asociación de Psicología de PR. El objectivo de este proyecto es estimular la participación electoral basada en el análisis de propuestas con evidencia para atender los problemas del país.",
+    url: "https://www.facebook.com/votoconconciencia",
   },
   {
     id: "equidad-2020",
@@ -90,14 +98,6 @@ const PROJECTS = [
     url: "https://www.facebook.com/Porlaequidad.pr",
   },
   {
-    id: "la-clara",
-    logo: LaClara,
-    name: "La Clara",
-    description:
-      "La Clara es un espacio en el que la creatividad y la labor social y política se encuentran para contextualizar las situaciones, los problemas, las trabas y la maraña que acapara a Puerto Rico. Este laboratorio de acción política y social es un espacio en el que les jóvenes puertorriqueñes pueden adentrarse en temas que pueden parecer áridos y complejos, e imaginar y construir soluciones desde la diversidad y la inclusión.",
-    url: "https://www.instagram.com/somoslaclara/",
-  },
-  {
     id: "practica-tu-voto",
     logo: PracticaTuVoto,
     name: "Practica Tu Voto",
@@ -106,20 +106,20 @@ const PROJECTS = [
     url: "https://www.practicatuvoto.com/",
   },
   {
+    id: "la-clara",
+    logo: LaClara,
+    name: "La Clara",
+    description:
+      "La Clara es un espacio en el que la creatividad y la labor social y política se encuentran para contextualizar las situaciones, los problemas, las trabas y la maraña que acapara a Puerto Rico. Este laboratorio de acción política y social es un espacio en el que les jóvenes puertorriqueñes pueden adentrarse en temas que pueden parecer áridos y complejos, e imaginar y construir soluciones desde la diversidad y la inclusión.",
+    url: "https://www.instagram.com/somoslaclara/",
+  },
+  {
     id: "global-shapers",
     logo: GlobalShapers,
     name: "Global Shapers",
     description:
       "Global Shapers es una red global de jóvenes que promueven diálogo, acción y cambio en sus comunidades. El capítulo de San Juan colaboró con la ACLU PR para lanzar tuvotonosedeja.com donde resúmen las posturas de los candidatos/as.",
     url: "https://www.tuvotonosedeja.com/",
-  },
-  {
-    id: "ecopuntos",
-    logo: Ecopuntos,
-    name: "Ecopuntos",
-    description:
-      "EcoPuntos es una iniciativa colaborativa con el fin de promover decisiones informadas sobre asuntos de política pública ambiental. Desarrollamos una página web como herramienta para facilitar información a los votantes sobre cuan alineadas están las posturas de los candidatxs a Cámara y Senado con aquellas de la comunidad ambiental.",
-    url: "https://www.ecopuntospr.org",
   },
 ]
 
