@@ -7,6 +7,7 @@ import Proyecto85 from "../images/proyecto-85.png"
 import QuienMeRepresenta from "../images/quien-me-representa.png"
 import TuVotoNoSeDeja from "../images/tu-voto-no-se-deja.png"
 import VotoConConciencia from "../images/voto-con-conciencia.png"
+import Ecopuntos from "../images/ecopuntos.png"
 
 const PROJECTS = [
   {
@@ -48,6 +49,14 @@ const PROJECTS = [
     description:
       "Voto con conciencia es un esfuerzo liderado por la Asociación de Psicología de PR. El objectivo de este proyecto es estimular la participación electoral basada en el análisis de propuestas con evidencia para atender los problemas del país.",
     url: "https://www.facebook.com/votoconconciencia",
+  },
+  {
+    id: "ecopuntos",
+    logo: Ecopuntos,
+    name: "Ecopuntos",
+    description:
+      "EcoPuntos es una iniciativa colaborativa con el fin de promover decisiones informadas sobre asuntos de política pública ambiental. Desarrollamos una página web como herramienta para facilitar información a los votantes sobre cuan alineadas están las posturas de los candidatxs a Cámara y Senado con aquellas de la comunidad ambiental.",
+    url: "https://www.ecopuntospr.org",
   },
 ]
 
