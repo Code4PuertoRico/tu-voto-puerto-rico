@@ -82,12 +82,12 @@ const PROJECTS = [
     url: "https://instagram.com/politicaccesible?igshid=1d0s0nhltyhpv",
   },
   {
-    id: "voto-con-conciencia",
-    logo: VotoConConciencia,
-    name: "Voto con conciencia",
+    id: "practica-tu-voto",
+    logo: PracticaTuVoto,
+    name: "Practica Tu Voto",
     description:
-      "Voto con conciencia es un esfuerzo liderado por la Asociación de Psicología de PR. El objectivo de este proyecto es estimular la participación electoral basada en el análisis de propuestas con evidencia para atender los problemas del país.",
-    url: "https://www.facebook.com/votoconconciencia",
+      "PracticaTuVoto.com es un sitio de web construido por el Grupo PTV con el propósito de ayudar al elector puertorriqueño a emitir un voto asertivo en las elecciones generales de Puerto Rico. El visitante puede, luego de proveer información sobre su lugar de votación, examinar y marcar versiones similares a las tres papeletas que le serán entregadas el día 3 de noviembre de 2020, el día de las elecciones.",
+    url: "https://www.practicatuvoto.com/",
   },
   {
     id: "equidad-2020",
@@ -98,12 +98,12 @@ const PROJECTS = [
     url: "https://www.facebook.com/Porlaequidad.pr",
   },
   {
-    id: "practica-tu-voto",
-    logo: PracticaTuVoto,
-    name: "Practica Tu Voto",
+    id: "voto-con-conciencia",
+    logo: VotoConConciencia,
+    name: "Voto con conciencia",
     description:
-      "PracticaTuVoto.com es un sitio de web construido por el Grupo PTV con el propósito de ayudar al elector puertorriqueño a emitir un voto asertivo en las elecciones generales de Puerto Rico. El visitante puede, luego de proveer información sobre su lugar de votación, examinar y marcar versiones similares a las tres papeletas que le serán entregadas el día 3 de noviembre de 2020, el día de las elecciones.",
-    url: "https://www.practicatuvoto.com/",
+      "Voto con conciencia es un esfuerzo liderado por la Asociación de Psicología de PR. El objectivo de este proyecto es estimular la participación electoral basada en el análisis de propuestas con evidencia para atender los problemas del país.",
+    url: "https://www.facebook.com/votoconconciencia",
   },
   {
     id: "la-clara",
