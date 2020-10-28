@@ -15,6 +15,7 @@ import LaRutaDeLasMujeres from "../images/la-ruta-de-las-mujeres.png"
 import PracticaTuVoto from "../images/practica-tu-voto.png"
 import GlobalShapers from "../images/global-shapers.png"
 import Ecopuntos from "../images/ecopuntos.png"
+import InformeLegislativo from "../images/informe-legislativo.png"
 
 const PROJECTS = [
   {
@@ -56,6 +57,13 @@ const PROJECTS = [
     description:
       "EcoPuntos es una iniciativa colaborativa con el fin de promover decisiones informadas sobre asuntos de política pública ambiental. Desarrollamos una página web como herramienta para facilitar información a los votantes sobre cuan alineadas están las posturas de los candidatxs a Cámara y Senado con aquellas de la comunidad ambiental.",
     url: "https://www.ecopuntospr.org",
+  },
+  {
+    id: "informe-legislativo",
+    logo: InformeLegislativo,
+    name: "Informe Legislativo",
+    description: "Informe legislativo es una colaboración entre la ACLU de Puerto Rico y Tu Voto No Se Deja. Este proyecto busca....",
+    url: "https://drive.google.com/file/d/1wZQxEMY000M2EUdYZbdS-N-DtzA6Bb4R/view"
   },
   {
     id: "la-ruta-de-las-mujeres",
