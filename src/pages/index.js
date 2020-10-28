@@ -62,7 +62,7 @@ const PROJECTS = [
     id: "informe-legislativo",
     logo: InformeLegislativo,
     name: "Informe Legislativo",
-    description: "Informe legislativo es una colaboración entre la ACLU de Puerto Rico y Tu Voto No Se Deja. Este proyecto busca....",
+    description: "Por medio de este Informe Legislativo, la ACLU PR ofrece el panorama legislativo del cuatrienio 2017-2020. El objetivo es proveer información de fácil acceso para que los puertorriqueños y las puertorriqueñas tengan un documento en el que puedan confiar y adquirir análisis crucial sobre sus derechos constitucionales, fundamentales y humanos, y observen los patrones legislativos de sus gobernantes. ",
     url: "https://drive.google.com/file/d/1wZQxEMY000M2EUdYZbdS-N-DtzA6Bb4R/view"
   },
   {
